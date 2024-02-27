@@ -2,19 +2,18 @@
 
 Este é o repositório do projeto de landing page para um site de nutricionista.
 
-![logo](https://github.com/SimonePenido/Nutricionista/assets/112627846/283f7678-1331-4afc-ac65-6f74a726d189)
+<img src="https://github.com/SimonePenido/Nutricionista/assets/112627846/283f7678-1331-4afc-ac65-6f74a726d189" alt="logo" width="500" height="500">
+
 
 ## Visão Geral
 
-O objetivo deste projeto é criar uma landing page atraente e informativa para promover os serviços de um nutricionista.
+O objetivo deste projeto é criar uma landing page atraente e informativa para promover os serviços de uma nutricionista.
 
-##Recursos
+## Recursos
 
 - **Página Inicial**: Uma introdução sobre os serviços oferecidos pelo nutricionista.
 - **Sobre**: Informações sobre o nutricionista, sua formação e experiência.
 - **Serviços**: Descrição dos serviços oferecidos, como consultoria nutricional, planos de dieta personalizados, etc.
-- **Depoimentos**: Depoimentos de clientes satisfeitos.
-- **Contato**: Formulário de contato para agendamento de consultas.
 
 ## Tecnologias Utilizadas
 
@@ -44,9 +43,9 @@ https://getbootstrap.com/
 https://templatesJungle.com
 
 # Imagens
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
+https://unsplash.com/ <br>
+https://www.freepik.com/ <br>
+https://www.pexels.com/ <br>
 https://www.bing.com/images/create?cc=br
 
 # Fontes
@@ -57,7 +56,7 @@ https://fonts.google.com/
 https://iconify.design/
 
 # Plugins JQuery
-Swiper Slider - https://swiperjs.com/
+Swiper Slider - https://swiperjs.com/ <br>
 Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
 
 
