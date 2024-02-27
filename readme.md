@@ -2,13 +2,13 @@
 
 Este é o repositório do projeto de landing page para um site de nutricionista.
 
-
+![logo](https://github.com/SimonePenido/Nutricionista/assets/112627846/283f7678-1331-4afc-ac65-6f74a726d189)
 
 ## Visão Geral
 
 O objetivo deste projeto é criar uma landing page atraente e informativa para promover os serviços de um nutricionista.
 
-## Recursos
+##Recursos
 
 - **Página Inicial**: Uma introdução sobre os serviços oferecidos pelo nutricionista.
 - **Sobre**: Informações sobre o nutricionista, sua formação e experiência.
